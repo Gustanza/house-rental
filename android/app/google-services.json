@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889632914247",
+    "project_id": "housefinder-mobile-app",
+    "storage_bucket": "housefinder-mobile-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889632914247:android:f1fe0bd14ed43932ed2a62",
+        "android_client_info": {
+          "package_name": "com.example.chaurental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889632914247-ndl8vdvpjv4l2vhk78947eepjl7damgq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-lxQIUt9J5jt_84xHzbyEBkUl1doSHok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889632914247-ndl8vdvpjv4l2vhk78947eepjl7damgq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
